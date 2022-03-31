@@ -2,7 +2,8 @@
 
 ## イメージ画像
 
-- xxx
+- <img width="410" alt="image" src="https://user-images.githubusercontent.com/99580997/161075079-434f63a2-8959-4df7-874c-c809d8c6b14b.png">
+
 
 ## 概要
 
@@ -28,10 +29,14 @@
 ## w3c html チェック結果
 
 - https://validator.w3.org/nu/
+- <img width="750" alt="image" src="https://user-images.githubusercontent.com/99580997/161075181-d2f9b3ff-f8fc-43c7-8197-7ee4a058052a.png">
+
 
 ## w3c css チェック結果
 
 - https://jigsaw.w3.org/css-validator/
+- <img width="886" alt="image" src="https://user-images.githubusercontent.com/99580997/161075273-14dc4c34-2e76-4446-aa1f-e1fa9d68df34.png">
+
 
 ## portfolio url:
 
